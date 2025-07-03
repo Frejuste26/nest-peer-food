@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#" target="blank"><img src="./peerfood.svg" width="120" alt="Logo" /></a>
+  <a href="#" target="blank"><img src="./peerfood.png" width="120" alt="Logo" /></a>
 </p>
 
 ---
